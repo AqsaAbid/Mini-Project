@@ -1,0 +1,27 @@
+c:\users\sam\documents\visual studio 2015\Projects\ProjectB\ProjectB\bin\Debug\ProjectB.exe.config
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\bin\Debug\ProjectB.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\bin\Debug\ProjectB.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\obj\Debug\ProjectB.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\obj\Debug\ProjectB.Form1.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\obj\Debug\ProjectB.Properties.Resources.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\obj\Debug\ProjectB.csproj.GenerateResource.Cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\obj\Debug\ProjectB.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\obj\Debug\ProjectB.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB\ProjectB\obj\Debug\ProjectB.Cloo.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\bin\Debug\ProjectB.exe.config
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\bin\Debug\ProjectB.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\bin\Debug\ProjectB.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.Cloo.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.Form1.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.Properties.Resources.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.Rubric.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.csproj.GenerateResource.Cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.RubricLevel.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.Assessment.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.AssessmentComponent.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.Home.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.ClassAttendance.resources
+C:\Users\sam\Documents\Visual Studio 2015\Projects\ProjectB - Copy\ProjectB\obj\Debug\ProjectB.StudentAttendance.resources
